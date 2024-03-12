@@ -17,7 +17,8 @@ export default function page () {
     Reiciendis iste labore iusto voluptatem porro sit temporibus, exercitationem soluta laboriosam voluptate sed dolor sequi numquam aperiam sunt quo omnis, nihil corporis ducimus necessitatibus illum inventore! Amet debitis quo quaerat.
     Iusto eaque perspiciatis consequatur enim aliquid perferendis, qui reiciendis delectus totam? Vel eos recusandae deleniti iste ad. Sed optio necessitatibus sunt facere, nam earum enim praesentium commodi magnam, culpa consequuntur.</p>
     <Link href={'/about'}>About</Link><br />
-    <Link href={'/blogs/blog1'}>Blog1</Link>
+    <Link href={'/blogs/blog1'}>Blog1</Link><br />
+    <Link href={'/hello'}>Hello</Link><br />
     </div> 
   )
 }
